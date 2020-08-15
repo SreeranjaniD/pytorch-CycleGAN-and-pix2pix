@@ -1,3 +1,4 @@
+#[Reference citation]
 # Simple script to make sure basic usage
 # such as training, testing, saving and loading
 # runs without errors.
