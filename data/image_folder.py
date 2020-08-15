@@ -1,3 +1,4 @@
+#[Reference citation]
 """A modified image folder class
 
 We modify the official PyTorch image folder (https://github.com/pytorch/vision/blob/master/torchvision/datasets/folder.py)
