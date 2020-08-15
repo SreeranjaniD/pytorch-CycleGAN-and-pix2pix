@@ -2,7 +2,7 @@
 
 <br><br><br>
 
-# CycleGAN and pix2pix in PyTorch
+# CycleGAN and pix2pixx in PyTorch
 
 **New**:  Please check out [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) (CUT), our new unpaired image-to-image translation model that enables fast and memory-efficient training.
 
