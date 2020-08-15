@@ -1,3 +1,4 @@
+#[Reference citation]
 import torch
 from .base_model import BaseModel
 from . import networks
