@@ -1,3 +1,4 @@
+#[Reference citation]
 # HED batch processing script; modified from https://github.com/s9xie/hed/blob/master/examples/hed/HED-tutorial.ipynb
 # Step 1: download the hed repo: https://github.com/s9xie/hed
 # Step 2: download the models and protoxt, and put them under {caffe_root}/examples/hed/
