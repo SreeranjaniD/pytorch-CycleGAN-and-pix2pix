@@ -1,3 +1,4 @@
+#[Reference citation]
 """This package contains modules related to objective functions, optimizations, and network architectures.
 
 To add a custom model class called 'dummy', you need to add a file called 'dummy_model.py' and define a subclass DummyModel inherited from BaseModel.
