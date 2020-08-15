@@ -1,3 +1,4 @@
+#[Reference citation]
 from .base_model import BaseModel
 from . import networks
 
