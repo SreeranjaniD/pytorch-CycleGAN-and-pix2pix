@@ -1,3 +1,4 @@
+#[Reference citation]
 import os
 
 from PIL import Image
