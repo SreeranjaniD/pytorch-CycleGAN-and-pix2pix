@@ -1,3 +1,4 @@
+#[Reference citation]
 """This module contains simple helper functions """
 from __future__ import print_function
 import torch
