@@ -1,3 +1,4 @@
+#[Reference citation]
 import os
 import glob
 from PIL import Image
