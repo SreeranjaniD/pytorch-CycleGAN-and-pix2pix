@@ -1,3 +1,4 @@
+#[Reference citation]
 %%% Prerequisites
 % You need to get the cpp file edgesNmsMex.cpp from https://raw.githubusercontent.com/pdollar/edges/master/private/edgesNmsMex.cpp
 % and compile it in Matlab: mex edgesNmsMex.cpp
