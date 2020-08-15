@@ -1,3 +1,4 @@
+#[Reference citation]
 """Model class template
 
 This module provides a template for users to implement custom models.
