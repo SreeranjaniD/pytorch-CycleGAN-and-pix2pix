@@ -1,6 +1,6 @@
 # CycleGAN implementation on various datasets in PyTorch
 
-I would like to sincerely thank the authors of CycleGAN for using their open-sourced source code in PyTorch. The code has been fully borrowed from them.
+I would like to sincerely thank the authors of CycleGAN for using their open-sourced source code in PyTorch. The code has been fully borrowed from the author's code. Citing here instead of citing in every file.
 
 The CycleGAN code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesung)(https://ssnl.github.io/).
 
