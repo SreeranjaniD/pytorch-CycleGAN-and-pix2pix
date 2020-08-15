@@ -1,3 +1,4 @@
+#[Reference citation]
 # The following code is modified from https://github.com/shelhamer/clockwork-fcn
 import numpy as np
 
