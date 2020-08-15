@@ -1,3 +1,4 @@
+#[Reference citation]
 from .pix2pix_model import Pix2PixModel
 import torch
 from skimage import color  # used for lab2rgb
